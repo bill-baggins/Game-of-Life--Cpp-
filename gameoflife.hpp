@@ -1,13 +1,12 @@
 #include <vector>
 #include <iostream>
+#include <string>
 #include <windows.h>
 #include <cstdlib>
 #include <ctime>
 
 #ifndef gameoflife_HPP
 #define gameoflife_HPP
-
-#define llu unsigned long long
 
 using namespace std;
 
